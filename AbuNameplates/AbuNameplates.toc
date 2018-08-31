@@ -1,0 +1,6 @@
+## Interface: 70000
+## Title: |cffffffffAbu|rNameplates
+## Author: Abu
+
+utils.lua
+core.lua

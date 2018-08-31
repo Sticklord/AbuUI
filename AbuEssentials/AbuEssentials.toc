@@ -1,0 +1,28 @@
+## Interface: 70000
+## Title: |cffffffffAbu|rEssentials
+## Author: Abu
+## X-Credits: Mumin, for the name.
+
+libs\AbuTheLib.lua
+
+defaults.lua
+#CONFIG.lua
+
+Tools\border.lua
+
+Core.lua
+Scripts.lua
+Setup.lua
+
+Modules\fonts.lua
+Modules\Mail.lua
+#Modules\sendstuff.lua
+#Modules\TalentMacro.lua
+Modules\ToolTip.lua
+Modules\Vendor.lua
+
+Skins\AddOns.lua
+Skins\MiniMap.lua
+Skins\Recolor.lua
+Skins\SpeechBubbles.lua
+Skins\OrderHall.lua

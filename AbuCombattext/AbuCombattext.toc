@@ -1,0 +1,12 @@
+## Interface: 60000
+## Title: |cffffffffAbu|rCombattext
+## Notes: Abu Combat Text
+## Author: Abu
+## Version: 1
+## RequiredDeps: Blizzard_CombatText
+
+libs/AbuTheLib.lua
+defaults.lua
+CONFIG.lua
+db.lua
+Core.lua
